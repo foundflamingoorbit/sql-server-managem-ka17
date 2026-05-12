@@ -1,4 +1,4 @@
-# 
+# exclusive SQL Server Management Studio for PC | SQL Server Management Studio for Windows Addon | custom-scripts + schema-comparison offers the most advanced SQL Server Management
 
 
 
